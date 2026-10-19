@@ -1,0 +1,9 @@
+LIFE I LOVE — sitio web estático
+
+Cómo usarlo:
+1. Descomprime life_i_love_web.zip.
+2. Abre index.html en un navegador para previsualizarlo.
+3. Para publicarlo, sube la carpeta completa (index.html + assets/) a un hosting estático como GitHub Pages, Netlify o tu proveedor web.
+
+Los botones de compra enlazan al perfil de Vinted facilitado.
+Los precios y artículos de la página están basados en las capturas compartidas; actualízalos si cambian.
